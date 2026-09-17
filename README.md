@@ -35,4 +35,6 @@ O código da atividade está disponível no arquivo:
 
 ## Vídeo da atividade
 
-O vídeo demonstrando o funcionamento da aplicação será publicado no LinkedIn.
+O vídeo demonstrando o funcionamento da aplicação está disponível no LinkedIn:
+
+https://www.linkedin.com/posts/eduarda-vict%C3%B3ria-feitosa-da-silva-a906aa346_engenhariadesoftware-estruturadedados-python-ugcPost-7506474584741920768-NH6N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFaZm4wBCPqIbZy4L7BEGe-HU-ejJaaj6zA
